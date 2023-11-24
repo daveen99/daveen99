@@ -32,9 +32,11 @@ DSAC은 4차 산업혁명의 필요한 핵심 인재 양성을 위해 제공되�
  <br><br>
  # 프로젝트
 
-### 1. 프로젝트1
-- **깃허브 링크:** 링크 
-- **참가인원:** 4명
+### 1. 게임랜드 프로젝트
+- **깃허브 링크:** <a href="https://github.com/JSProject-Team4/Team4"> 게임랜드 프로젝트 개발 링크
+- **호스팅 링크:** <a href="https://daveen99.github.io/GameLand_project/DaveenGame2/index.html"> 게임랜드 체험
+- **담당파트:** 벽돌부수기 게임
+- **참가인원:** 4명 (팀장_김다빈, 이효원, 원용재, 유가령)
 - **개발기간:** YYYY년 MM월 DD일부터 YYYY년 MM월 DD일까지
 
 #### 프로젝트 소개
