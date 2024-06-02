@@ -57,7 +57,7 @@ DSAC은 4차 산업혁명의 필요한 핵심 인재 양성을 위해 제공되�
 #
 ### 3. 프로젝트: 크레센도
 - **깃허브 링크:** <a href="https://github.com/TeamCrescendo"> 프로젝트 크레센도 개발 링크
-- **aws 배포 링크:** <a href="http://cresendo.site"> 크레센도 웹사이트
+- **aws 배포 링크:** <a href="http://cresendo.site"> 크레센도 웹사이트 (현재서버다운)
 - **PPT 자료:** <a href="https://drive.google.com/file/d/1_DN3VjL_lhoEoTYdzPLtC6gU94Pd54TO/view?usp=sharing"> 발표자료
 - **담당파트:** 전반적인 부분의 CSS 구조 설계, 리액트 기반 프론트엔드 구조 설계, 대부분의 리액트 개발
 - **참가인원:** 5명 (한태용, 김다빈, 경규현, 장선경, 원용재)
