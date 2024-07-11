@@ -66,7 +66,7 @@ DSAC은 4차 산업혁명의 필요한 핵심 인재 양성을 위해 제공되�
 가입된 유저들끼리 동영상을 공유할 수 있는 플랫폼입니다.<br>
 YOUTUBE에서 아이디어를 얻어왔습니다.
 #
-### 3. 프로젝트: 크레센도
+### 4. 프로젝트: 크레센도
 - **깃허브 링크:** <a href="https://github.com/TeamCrescendo"> 프로젝트 크레센도 개발 링크
 - **aws 배포 링크:** <a href="http://cresendo.site"> 크레센도 웹사이트 (현재서버다운)
 - **사이트 시연 영상** (시연자 김다빈): <a href="https://www.youtube.com/watch?v=F50cl6GUR7k&ab_channel=%EB%B9%94%EB%8B%A4"> 유튜브 링크
