@@ -61,6 +61,7 @@ DSAC은 4차 산업혁명의 필요한 핵심 인재 양성을 위해 제공되�
 #
 ### 3. Video Hub
 - **깃허브 링크:** <a href="https://github.com/web-videohub/web-video-hub"> Video Hub 개발 링크
+- **PPT 자료:** <a href="https://drive.google.com/file/d/1FLT9-lYRbVaT550OfT9efeVnz95o3qr1/view?usp=drivesdk"> 발표자료
 - **담당파트:**
       backend : 스튜디오 페이지 본인 영상 검색, 유저 채널 페이지 영상 조회
       frontend : 회원기능 페이지 제작, 구독한 채널 일괄보기 제작, 헤더, 사이드바, 반응형 제작, 비디오 리스트 설계, PPT 제작
