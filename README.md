@@ -61,12 +61,14 @@ DSAC은 4차 산업혁명의 필요한 핵심 인재 양성을 위해 제공되�
 #
 ### 3. Video Hub
 - **깃허브 링크:** <a href="https://github.com/web-videohub/web-video-hub"> Video Hub 개발 링크
-- - **PPT 자료:** <a href="https://drive.google.com/file/d/1FLT9-lYRbVaT550OfT9efeVnz95o3qr1/view?usp=drivesdk"> 발표자료
 - **담당파트:**
       backend : 스튜디오 페이지 본인 영상 검색, 유저 채널 페이지 영상 조회
       frontend : 회원기능 페이지 제작, 구독한 채널 일괄보기 제작, 헤더, 사이드바, 반응형 제작, 비디오 리스트 설계, PPT 제작
-- **참가인원:** 4명 (김용섭, 김다빈, 송민건, 태은선)
+- **참가인원:** 4명 (김용, 김다빈, 송민건, 태은선)
 - **개발기간:** 2022년 12월 31일부터 2023년 01월 09일까지
+#### 프로젝트 소개
+가입된 유저들끼리 동영상을 공유할 수 있는 플랫폼입니다.<br>
+YOUTUBE에서 아이디어를 얻어왔습니다.
 #
 
 ### 4. 프로젝트: 크레센도
